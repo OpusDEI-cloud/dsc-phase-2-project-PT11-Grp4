@@ -20,14 +20,8 @@ A major tech company is entering the movie industry. They need insights into wha
 5. **Data Visualization**: Plotted relationships between budget, genre, and ROI.
 
 ## 📊 Key Insights
-- High-earning genres: Action, Adventure, Sci-Fi
-- Best ROI: Films with moderate budgets and broad appeal
-- Optimal release time: May to August (summer window)
 
 ## 📌 Recommendations
-- Launch first movies in Action/Adventure genres.
-- Aim for budgets between $40M and $80M.
-- Release during the summer months for higher box office potential.
 
 ## 🚧 Limitations
 - No data on marketing budgets or streaming performance.
