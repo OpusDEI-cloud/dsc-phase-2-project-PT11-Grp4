@@ -130,3 +130,5 @@ dmypy.json
 
 # macOS files
 .DS_Store
+#Large files
+Data/im.db
