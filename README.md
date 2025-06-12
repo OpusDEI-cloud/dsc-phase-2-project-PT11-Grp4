@@ -20,8 +20,16 @@ A major tech company is entering the movie industry. They need insights into wha
 5. **Data Visualization**: Plotted relationships between budget, genre, and ROI.
 
 ## 📊 Key Insights
+- Higher production budgets tend to yield higher revenues, but ROI can vary.
+- Critic and audience scores both positively correlate with box office success.
+- Action and adventure genres dominate top-grossing films.
+- Summer and holiday releases perform better on average.
 
 ## 📌 Recommendations
+- Invest in mid-to-high budget films in popular genres like Action and Adventure.
+- Prioritize releases during summer and holiday seasons.
+- Aim for high critic and audience engagement by focusing on quality scripts and production.
+- Use predictive models to forecast film success before production.
 
 ## 🚧 Limitations
 - No data on marketing budgets or streaming performance.
