@@ -41,13 +41,13 @@ The datasets were compiled from:
 
 ### Visualizations:
 1. **Genre vs. Average Profitability**  
-   ![Genre Profitability](visualizations/genre_profitability.png)
+   ![Genre Profitability](Images/genre_profitability.png)
 
 2. **Production Budget vs. Revenue**  
-   ![Budget vs Revenue](visualizations/budget_vs_revenue.png)
+   ![Budget vs Revenue](Images/budget_vs_revenue.png)
 
 3. **Review Scores vs. Revenue**  
-   ![Review Score Impact](visualizations/review_score_impact.png)
+   ![Review Score Impact](Images/review_score_impact.png)
 
 ## 🧠 Key Insights
 - Films with higher ratings on **Rotten Tomatoes** and **IMDB** tend to perform better at the box office.
